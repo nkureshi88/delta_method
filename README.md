@@ -1,2 +1,4 @@
-# delta_method
-What is the delta method and why do we need it? 
+# Delta Method
+
+This document walks through a high-level overview of the delta method and an 
+example of how to apply it. 
